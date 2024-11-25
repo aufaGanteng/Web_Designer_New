@@ -1,0 +1,24 @@
+* {
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+section {
+  overflow-x: hidden;
+}
+
+.profile {
+  overflow-y: hidden;
+}
+
+#payload{
+  margin-top: rem;
+}
+
+.fot {
+  gap: 5rem;
+}
+
+
+
+
